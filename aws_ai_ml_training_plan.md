@@ -5,7 +5,7 @@ todos: []
 isProject: false
 ---
 
-# AWS AI/ML Architect Training Plan -- POD A
+# AWS AI/ML Architect Training Plan
 
 ## Goal
 
